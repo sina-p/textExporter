@@ -1,0 +1,19 @@
+{
+    "name": "sina/exporter",
+    "description": "this is a exporter",
+    "type": "project",
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    },
+    "require-dev": {
+        "dompdf/dompdf": "^2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sina alizadeh",
+            "email": "a.sina.alizadeh83@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
